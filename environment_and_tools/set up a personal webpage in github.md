@@ -45,11 +45,10 @@ C:\Users\echnhog\begood-chenhong.github.io>bundle exec jekyll serve
 3) Then the webpage can be reviewed locally.
 
 4) Commit local changes to github.
-
-I mainly refer to these documents and links: <br>
-a) https://pages.github.com/ <br>
-b) https://github.com/github/personal-website <br>
-c) https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll <br>
+	I mainly refer to these documents and links: <br>
+	a) https://pages.github.com/ <br>
+	b) https://github.com/github/personal-website <br>
+	c) https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll <br>
 
 
 > Written with [StackEdit](https://stackedit.io/).
